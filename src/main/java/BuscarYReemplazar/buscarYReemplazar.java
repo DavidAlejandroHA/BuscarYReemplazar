@@ -16,6 +16,11 @@ import javafx.scene.layout.Priority;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
+/**
+ * 
+ * @author David Alejandro Hernández Alonso 2º DAM A
+ *
+ */
 public class buscarYReemplazar extends Application{
 	
 	// view
@@ -96,8 +101,8 @@ public class buscarYReemplazar extends Application{
 		root.setCenter(zona1);
 		root.setRight(zonaBotones);
 		
-		primaryStage.setTitle("Buscar y reemplazar");
-		primaryStage.setScene(new Scene(root, 520, 200));
+		primaryStage.setTitle("Buscar y reemplazar - David Alejandro Hernández Alonso 2º DAM A");
+		primaryStage.setScene(new Scene(root, 540, 200));
 		primaryStage.show();
 	}
 	
