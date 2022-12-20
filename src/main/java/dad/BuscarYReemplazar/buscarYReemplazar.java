@@ -1,4 +1,4 @@
-package BuscarYReemplazar;
+package dad.BuscarYReemplazar;
 
 import javafx.application.Application;
 import javafx.geometry.HPos;
